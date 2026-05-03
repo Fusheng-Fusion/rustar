@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Rust
+/target/
+**/*.rs.bk
+
+# Node
+node_modules/
