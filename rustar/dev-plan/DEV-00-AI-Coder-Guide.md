@@ -1,15 +1,15 @@
 # BlockType Next — AI Coder 开发总纲
 
 > **文档版本**：v1.0 | **日期**：2026-05-02 | **用途**：AI Coder 任务领取与执行指南
-> **设计文档根目录**：`docs/rust-typescript-compiler/`
-> **开发方案目录**：`docs/rust-typescript-compiler/dev-plan/`
+> **设计文档根目录**：`docs/rustar/`
+> **开发方案目录**：`docs/rustar/dev-plan/`
 
 ---
 
 ## 0. 文档体系结构
 
 ```
-docs/rust-typescript-compiler/
+docs/rustar/
 ├── 00-Overview.md                 ← 项目总览
 ├── 01-Design-Philosophy.md       ← 设计原则
 ├── 02-Core-Types.md              ← 核心类型定义（Rust 代码级详细）
